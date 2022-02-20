@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0e09e5ac.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.8b28e5b2.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.8b28e5b2.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.d3f9da58.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.d3f9da58.js.map",
+    "static/js/2.b6a0c595.chunk.js": "/React-Portfolio/static/js/2.b6a0c595.chunk.js",
+    "static/js/2.b6a0c595.chunk.js.map": "/React-Portfolio/static/js/2.b6a0c595.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.0e09e5ac.chunk.css.map": "/React-Portfolio/static/css/main.0e09e5ac.chunk.css.map",
+    "static/js/2.b6a0c595.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.b6a0c595.chunk.js.LICENSE.txt",
+    "static/media/ElectricalCurrent.aa60ea15.PNG": "/React-Portfolio/static/media/ElectricalCurrent.aa60ea15.PNG",
+    "static/media/NCDSBHomepage.15dae4c5.png": "/React-Portfolio/static/media/NCDSBHomepage.15dae4c5.png",
+    "static/media/ResponsiveWeb.7997cdca.PNG": "/React-Portfolio/static/media/ResponsiveWeb.7997cdca.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3f9da58.js",
+    "static/js/2.b6a0c595.chunk.js",
+    "static/css/main.0e09e5ac.chunk.css",
+    "static/js/main.8b28e5b2.chunk.js"
+  ]
+}
