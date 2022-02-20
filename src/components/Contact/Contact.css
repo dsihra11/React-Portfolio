@@ -1,0 +1,20 @@
+#SocialText {
+  margin-left: 100px;
+}
+
+#iconMedia {
+  margin-left: 200px;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  #SocialText {
+    margin-left: 0px;
+  }
+
+  #iconMedia {
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 10px;
+  }
+}
